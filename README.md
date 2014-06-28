@@ -23,3 +23,7 @@ mostly javascript.
 
 ## workflow
 * [gulp](http://gulpjs.com/)
+
+##bundlers
+* [component](https://github.com/component/component)
+* [browserify](http://browserify.org/)
