@@ -1,14 +1,22 @@
 quodlibet
 =========
 
-A list of resources and other stuff I like and even sometimes use
+things I like.
+mostly javascript.
 
-## javascript
+## es6 things
 
-# web components
+[regenerator](https://github.com/facebook/regenerator)
+[koa](http://koajs.com)
 
-http://customelements.io/
+## stream things
 
-# streams
+[highland](http://highlandjs.com)
+[event-stream](https://github.com/dominictarr/event-stream)
+[trumpet](https://github.com/substack/node-trumpet)
+[JSONStream](https://github.com/dominictarr/JSONStream)
 
-coming soon
+## websocket things
+
+[bone](http://bone.io/)
+[shoe](https://github.com/substack/shoe)
