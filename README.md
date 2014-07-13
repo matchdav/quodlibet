@@ -1,7 +1,8 @@
 quodlibet
 =========
 
-things I like.
+'quodlibet' means, literally, 'whatever'.
+for now this is a list of projects I'm interested in.
 mostly javascript.
 
 ## es6 
