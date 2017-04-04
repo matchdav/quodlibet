@@ -1,33 +1,30 @@
 quodlibet
 =========
 
-'quodlibet' means, literally, 'whatever'.
-for now this is a list of projects I'm interested in.
-mostly javascript.
+a list of things I like
 
-## es6 
+## js tools
 
 * [regenerator](https://github.com/facebook/regenerator)
 * [koa](http://koajs.com)
-
-## stream 
-
+* [babel](http://babeljs.io)
+* [flow](http://github.com/facebook/flow)
 * [highland](http://highlandjs.com)
 * [event-stream](https://github.com/dominictarr/event-stream)
 * [trumpet](https://github.com/substack/node-trumpet)
 * [JSONStream](https://github.com/dominictarr/JSONStream)
-
-## websocket 
-
-* [bone](http://bone.io/)
+* [socket.io](http://socket.io/)
 * [shoe](https://github.com/substack/shoe)
-
-## workflow
 * [gulp](http://gulpjs.com/)
-
-##bundlers
-* [component](https://github.com/component/component)
 * [browserify](http://browserify.org/)
+* [webpack](http://webpack.js.org/)
+* [vue](http://vuejs.org/)
+* [grasp](http://www.graspjs.com/)
+* [yarn](https://yarnpkg.com)
 
-## mv*
-[vue](http://vuejs.org/)
+## other hotness
+
+* [serverless](http://serverless.com)
+* [Parse](http://parseplatform.org/)
+* [Go](https://golang.org/)
+* [Elm](http://elm-lang.org/)
